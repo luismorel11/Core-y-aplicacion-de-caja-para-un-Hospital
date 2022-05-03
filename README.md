@@ -1,4 +1,4 @@
-<h1>JWipe - Core y Sistema de caja de un Hospital</h1>
+<h1>Core y Sistema de caja de un Hospital(C#)</h1>
 
  ### [Blog con mas informacion](https://luisemorel.blogspot.com/2022/04/codigo-gratis-en-c-proyecto-final.html)
 
