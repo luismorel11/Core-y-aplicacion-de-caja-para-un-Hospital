@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\Datos Layer\bin\Debug\Datos Layer.dll
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\Datos Layer\bin\Debug\Datos Layer.pdb
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\Datos Layer\bin\Debug\Modelo layer.dll
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\Datos Layer\bin\Debug\Modelo layer.pdb
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\Datos Layer\obj\Debug\Datos Layer.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\Datos Layer\obj\Debug\Datos Layer.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\Datos Layer\obj\Debug\Datos Layer.dll
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\Datos Layer\obj\Debug\Datos Layer.pdb
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\Datos Layer\obj\Debug\Datos Layer.csproj.CopyComplete

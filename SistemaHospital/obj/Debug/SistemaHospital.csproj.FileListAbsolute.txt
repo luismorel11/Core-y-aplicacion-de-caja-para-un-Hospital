@@ -1,0 +1,47 @@
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.frmAgregarEvaluacion.resources
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.frmAsignarDoctor.resources
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.frmBusqueda.resources
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.frmCrearPaciente.resources
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.frmCrearAreaDetalles.resources
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.frmCrearArea.resources
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.frmCrearProcedimiento.resources
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.frmCrearDoctor.resources
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.frmCrearHorario.resources
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.frmCrearPeriodo.resources
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.frmCrearRol.resources
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.frmCrearUsuario.resources
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.frmCrearVacantes.resources
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.frmGenerarReporte.resources
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.frmRegistrarGenerarReporte.resources
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.frmReportePaciente.resources
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.frmRolPermiso.resources
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.Login.resources
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.MDIMaster.resources
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.Properties.Resources.resources
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\bin\Debug\SistemaHospital.exe.config
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\bin\Debug\SistemaHospital.exe
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\bin\Debug\SistemaHospital.pdb
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\bin\Debug\ClosedXML.dll
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\bin\Debug\Datos Layer.dll
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\bin\Debug\ExcelNumberFormat.dll
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\bin\Debug\Modelo layer.dll
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\bin\Debug\System.IO.Packaging.dll
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\bin\Debug\Datos Layer.pdb
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\bin\Debug\Modelo layer.pdb
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\bin\Debug\ClosedXML.pdb
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\bin\Debug\ClosedXML.xml
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\bin\Debug\ExcelNumberFormat.xml
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.exe
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.pdb
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.frmCrearHabitaciones.resources
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.frmAsignarProcedimiento.resources
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.frmAgregarCurricula.resources
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.frmRegistrarMatricula.resources
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.frmAgregarProcPaciente.resources
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\SistemaHospital\obj\Debug\SistemaHospital.csproj.CopyComplete

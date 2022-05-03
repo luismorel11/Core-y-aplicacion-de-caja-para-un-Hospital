@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\Modelo layer\bin\Debug\Modelo layer.dll
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\Modelo layer\bin\Debug\Modelo layer.pdb
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\Modelo layer\obj\Debug\Modelo layer.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\Modelo layer\obj\Debug\Modelo layer.dll
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\Modelo layer\obj\Debug\Modelo layer.pdb
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\Modelo layer\obj\Debug\Modelo layer.csproj.AssemblyReference.cache

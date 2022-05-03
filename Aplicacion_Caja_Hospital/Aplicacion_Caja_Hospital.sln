@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicacion_Caja_Hospital", "Aplicacion_Caja_Hospital.csproj", "{F7188318-5CA0-4CA4-8712-CBB7D1B4A0F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicación_Caja", "..\..\..\..\OneDrive\Desktop\Aplicación_Caja\Aplicación_Caja\Aplicación_Caja\Aplicación_Caja.csproj", "{6ACDC22B-93EC-47AB-A2EA-490A2F9D98B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7188318-5CA0-4CA4-8712-CBB7D1B4A0F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7188318-5CA0-4CA4-8712-CBB7D1B4A0F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7188318-5CA0-4CA4-8712-CBB7D1B4A0F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7188318-5CA0-4CA4-8712-CBB7D1B4A0F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ACDC22B-93EC-47AB-A2EA-490A2F9D98B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ACDC22B-93EC-47AB-A2EA-490A2F9D98B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ACDC22B-93EC-47AB-A2EA-490A2F9D98B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ACDC22B-93EC-47AB-A2EA-490A2F9D98B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F8B1F97-C1B7-482B-B210-F595CE622A28}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\WebServiceDatos.Logica\bin\Debug\WebServiceDatos.Logica.dll
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\WebServiceDatos.Logica\bin\Debug\WebServiceDatos.Logica.pdb
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\WebServiceDatos.Logica\obj\Debug\WebServiceDatos.Logica.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\WebServiceDatos.Logica\obj\Debug\WebServiceDatos.Logica.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\WebServiceDatos.Logica\obj\Debug\WebServiceDatos.Logica.dll
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\WebServiceDatos.Logica\obj\Debug\WebServiceDatos.Logica.pdb
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\WebServiceDatos.Logica\bin\Debug\Datos Layer.dll
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\WebServiceDatos.Logica\bin\Debug\Modelo layer.dll
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\WebServiceDatos.Logica\bin\Debug\Datos Layer.pdb
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\WebServiceDatos.Logica\bin\Debug\Modelo layer.pdb
+C:\Users\hp\source\repos\Core General Health Plaza Hospital\WebServiceDatos.Logica\obj\Debug\WebServiceDatos.Logica.csproj.CopyComplete
